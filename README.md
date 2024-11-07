@@ -1,0 +1,1 @@
+The Hotel Booking React Site is a user-friendly web application designed to streamline the hotel reservation process. It provides users with an intuitive interface to browse, filter, and book hotel rooms. This project is built with React and incorporates modern UI components to create a seamless user experience.
